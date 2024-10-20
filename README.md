@@ -2,7 +2,19 @@
 Bare Bones inspired resource packs for Create mod addons
 
 Includes:
-- Create: Estrogen https://modrinth.com/mod/estrogen
+- [Create Goggles](https://modrinth.com/mod/create-goggles)
+- [Create Utilities](https://modrinth.com/mod/create-utilities)
+- [Create: New Age](https://modrinth.com/mod/create-new-age)
+- [Create Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry-fabric)
+- [Create: Estrogen](https://modrinth.com/mod/estrogen)
+- [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice)
+- [Create Jetpack](https://modrinth.com/mod/create-jetpack)
+- [Create: Diesel Generators Forge/Fabric](https://modrinth.com/mod/create-diesel-generators)
+- [Create: Bitterballen](https://modrinth.com/mod/create-bitterballen)
+
+
+//
+I attest that my work is original and have done due dilligence to find similar works. Please notify me if you have or find similar content.
 
 ## USAGE
 All rights reserved unless explicitly stated.
