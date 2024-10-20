@@ -1,0 +1,22 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 8,
+      "max_inclusive": 57
+    },
+    "description": "Bare Bones style for Create Addons"
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "create",
+        "path": "block/axis"
+      },
+      {
+        "namespace": "create",
+        "path": "block/axis_top"
+      }
+    ]
+  }
+}
